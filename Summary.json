@@ -1,5 +1,14 @@
-[{"SumamryId":1, "Username":"wadelopez", "BehavioralLvl":4.09, "CompetencyLvl":2.0},
- {"SumamryId":2, "Username":"sethellis", "BehavioralLvl":3.75, "CompetencyLvl":1.47},
+[ 
+ {"SumamryId":1, 
+  "Username":"wadelopez", 
+  "BehavioralLvl":4.09, 
+  "CompetencyLvl":2.0},
+
+ {"SumamryId":2, 
+  "Username":"sethellis", 
+  "BehavioralLvl":3.75, 
+  "CompetencyLvl":1.47},
+	
  {"SumamryId":3, "Username":"stellagibson", "BehavioralLvl":2.13, "CompetencyLvl":1.71},
  {"SumamryId":4, "Username":"verafisher", "BehavioralLvl":4.55, "CompetencyLvl":2.47},
  {"SumamryId":5, "Username":"lucythomas", "BehavioralLvl":3.63, "CompetencyLvl":1.47},

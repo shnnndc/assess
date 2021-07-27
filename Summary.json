@@ -1,15 +1,75 @@
-[{"SumamryId":1, "Username":"wadelopez", "BehavioralLvl":4.09, "CompetencyLvl":2.0},
- {"SumamryId":2, "Username":"sethellis", "BehavioralLvl":3.75, "CompetencyLvl":1.47},
- {"SumamryId":3, "Username":"stellagibson", "BehavioralLvl":2.13, "CompetencyLvl":1.71},
- {"SumamryId":4, "Username":"verafisher", "BehavioralLvl":4.55, "CompetencyLvl":2.47},
- {"SumamryId":5, "Username":"lucythomas", "BehavioralLvl":3.63, "CompetencyLvl":1.47},
- {"SumamryId":6, "Username":"lewismorgan", "BehavioralLvl":4.0, "CompetencyLvl":1.35},
- {"SumamryId":7, "Username":"blakesmith", "BehavioralLvl":4.55, "CompetencyLvl":2.59},
- {"SumamryId":8, "Username":"antonionewton", "BehavioralLvl":3.91, "CompetencyLvl":1.35},
- {"SumamryId":9, "Username":"julianperez", "BehavioralLvl":3.63, "CompetencyLvl":1.82},
- {"SumamryId":10, "Username":"milaburns", "BehavioralLvl":2.63, "CompetencyLvl":1.24},
- {"SumamryId":11, "Username":"leonaford", "BehavioralLvl":3.45, "CompetencyLvl":1.41},
- {"SumamryId":12, "Username":"lorettagriffin", "BehavioralLvl":4.5, "CompetencyLvl":2.0},
- {"SumamryId":13, "Username":"jorgesherman", "BehavioralLvl":4.73, "CompetencyLvl":2.65},
- {"SumamryId":14, "Username":"traceyallen", "BehavioralLvl":3.36, "CompetencyLvl":1.82},
- {"SumamryId":15, "Username":"bentleyharris", "BehavioralLvl":2.75, "CompetencyLvl":1.12}]
+[
+ {"SumamryId":1, 
+  "Username":"wadelopez", 
+  "BehavioralLvl":4.09, 
+  "CompetencyLvl":2.0},
+ 
+ {"SumamryId":2, 
+  "Username":"sethellis", 
+  "BehavioralLvl":3.75, 
+  "CompetencyLvl":1.47},
+ 
+ {"SumamryId":3, 
+  "Username":"stellagibson",
+  "BehavioralLvl":2.13, 
+  "CompetencyLvl":1.71},
+ 
+ {"SumamryId":4, 
+  "Username":"verafisher", 
+  "BehavioralLvl":4.55, 
+  "CompetencyLvl":2.47},
+ 
+ {"SumamryId":5, 
+  "Username":"lucythomas", 
+  "BehavioralLvl":3.63, 
+  "CompetencyLvl":1.47},
+ 
+ {"SumamryId":6, 
+  "Username":"lewismorgan", 
+  "BehavioralLvl":4.0,
+  "CompetencyLvl":1.35},
+ 
+ {"SumamryId":7, 
+  "Username":"blakesmith", 
+  "BehavioralLvl":4.55, 
+  "CompetencyLvl":2.59},
+ 
+ {"SumamryId":8, 
+  "Username":"antonionewton", 
+  "BehavioralLvl":3.91, 
+  "CompetencyLvl":1.35},
+ 
+ {"SumamryId":9, 
+  "Username":"julianperez", 
+  "BehavioralLvl":3.63, 
+  "CompetencyLvl":1.82},
+ 
+ {"SumamryId":10, 
+  "Username":"milaburns", 
+  "BehavioralLvl":2.63, 
+  "CompetencyLvl":1.24},
+ 
+ {"SumamryId":11, 
+  "Username":"leonaford", 
+  "BehavioralLvl":3.45, 
+  "CompetencyLvl":1.41},
+ 
+ {"SumamryId":12, 
+  "Username":"lorettagriffin", 
+  "BehavioralLvl":4.5, 
+  "CompetencyLvl":2.0},
+ 
+ {"SumamryId":13, 
+  "Username":"jorgesherman", 
+  "BehavioralLvl":4.73, 
+  "CompetencyLvl":2.65},
+ 
+ {"SumamryId":14,
+  "Username":"traceyallen", 
+  "BehavioralLvl":3.36, 
+  CompetencyLvl":1.82},
+  
+ {"SumamryId":15, 
+  "Username":"bentleyharris", 
+  "BehavioralLvl":2.75, 
+  "CompetencyLvl":1.12}]
